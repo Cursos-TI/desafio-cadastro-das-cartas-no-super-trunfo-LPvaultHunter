@@ -8,7 +8,15 @@
 
 int main() {
     printf("Desafio Super Trunfo - Países. \n");
-    
+
+    printf("\n"); //espaçamentos 
+
+    printf("País - China\n");
+
+    printf("\n");
+
+    printf("carta A1\n"); 
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
 
@@ -47,13 +55,15 @@ int main() {
     // Exibição dos Dados das Cartas:
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
+    printf("\n");
 
     printf("Estado: %s\n", &Estado);
     printf("Codigo: %s\n", &Codigo);
     printf("Nome: %s\n", &Nome);
-    printf("PIB: %s\n", &area);
-    printf("PIB: %s\n", &Populacao);
-    printf("PIB: %s\n", &pontos);
+    printf("PIB: %f $\n", PIB);
+    printf("Area: %f Km2\n", area);
+    printf("População: %d\n", Populacao);
+    printf("Pontos: %d\n", pontos);
 
     
 }
