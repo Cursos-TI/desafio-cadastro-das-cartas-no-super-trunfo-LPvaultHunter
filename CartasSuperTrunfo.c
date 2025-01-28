@@ -21,7 +21,7 @@ int main() {
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
 
-    char Estado [50] ;
+    char Estado[50] ;
     char Codigo[50] ;
     char Nome[50];
     float PIB;
@@ -36,7 +36,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &Estado);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &Codigo);
 
     printf("Digite o Nome da cidade: \n");
@@ -85,7 +85,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &Estado2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &Codigo2);
 
     printf("Digite o Nome da cidade: \n");
@@ -134,7 +134,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &Estado3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &Codigo3);
 
     printf("Digite o Nome da cidade: \n");
@@ -183,7 +183,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &Estado4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &Codigo4);
 
     printf("Digite o Nome da cidade: \n");
@@ -232,7 +232,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoB1);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoB1);
 
     printf("Digite o Nome da cidade: \n");
@@ -281,7 +281,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoB2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoB2);
 
     printf("Digite o Nome da cidade: \n");
@@ -330,7 +330,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoB3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoB3);
 
     printf("Digite o Nome da cidade: \n");
@@ -379,7 +379,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoB4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoB4);
 
     printf("Digite o Nome da cidade: \n");
@@ -428,7 +428,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoC1);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoC1);
 
     printf("Digite o Nome da cidade: \n");
@@ -477,7 +477,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoC2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoC2);
 
     printf("Digite o Nome da cidade: \n");
@@ -526,7 +526,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoC3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoC3);
 
     printf("Digite o Nome da cidade: \n");
@@ -575,7 +575,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoC4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoC4);
 
     printf("Digite o Nome da cidade: \n");
@@ -624,7 +624,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoD1);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoD1);
 
     printf("Digite o Nome da cidade: \n");
@@ -673,7 +673,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoD2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoD2);
 
     printf("Digite o Nome da cidade: \n");
@@ -722,7 +722,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoD3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoD3);
 
     printf("Digite o Nome da cidade: \n");
@@ -771,7 +771,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoD4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoD4);
 
     printf("Digite o Nome da cidade: \n");
@@ -820,7 +820,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoE1);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoE1);
 
     printf("Digite o Nome da cidade: \n");
@@ -869,7 +869,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoE2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoE2);
 
     printf("Digite o Nome da cidade: \n");
@@ -918,7 +918,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoE3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoE3);
 
     printf("Digite o Nome da cidade: \n");
@@ -967,7 +967,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoE4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoE4);
 
     printf("Digite o Nome da cidade: \n");
@@ -1016,7 +1016,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoF1);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoF1);
 
     printf("Digite o Nome da cidade: \n");
@@ -1065,7 +1065,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoF2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoF2);
 
     printf("Digite o Nome da cidade: \n");
@@ -1114,7 +1114,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoF3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoF3);
 
     printf("Digite o Nome da cidade: \n");
@@ -1163,7 +1163,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoF4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoF4);
 
     printf("Digite o Nome da cidade: \n");
@@ -1212,7 +1212,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoG1);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoG1);
 
     printf("Digite o Nome da cidade: \n");
@@ -1261,7 +1261,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoG2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoG2);
 
     printf("Digite o Nome da cidade: \n");
@@ -1310,7 +1310,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoG3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoG3);
 
     printf("Digite o Nome da cidade: \n");
@@ -1359,7 +1359,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoG4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoG4);
 
     printf("Digite o Nome da cidade: \n");
@@ -1408,7 +1408,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoH1);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoH1);
 
     printf("Digite o Nome da cidade: \n");
@@ -1457,7 +1457,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoH2);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoH2);
 
     printf("Digite o Nome da cidade: \n");
@@ -1506,7 +1506,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoH3);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoH3);
 
     printf("Digite o Nome da cidade: \n");
@@ -1555,7 +1555,7 @@ int main() {
     printf("Digite um Estado de A até H: \n");
     scanf("%s", &EstadoH4);
 
-    printf("Digite o Código da carta: \n")
+    printf("Digite o Código da carta: \n");
     scanf("%s", &CodigoH4);
 
     printf("Digite o Nome da cidade: \n");
@@ -1586,6 +1586,6 @@ int main() {
     printf("Pontos: %d\n", pontosH4);
 
     printf("\n");
-    
+
     return 0;    
 }
