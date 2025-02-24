@@ -149,8 +149,8 @@ int main() {
 
     printf(" Comparacao de Cartas \n\n");
   
-    printf("Populacao: %d\n", populacao > populacaoB1 );
-    printf("Area da Cidade: %d\n", Area > areaB1);
+    printf("Populacao: %d\n", Populacao > PopulacaoB1 );
+    printf("Area da Cidade: %d\n", area > areaB1);
     printf("Densidade populacional: %d\n", densidade < densidadeB1);
     printf("PIB da Cidade: %d\n", PIB > PIBB1);
     printf("PIB per capita: %d\n", PIBP > PIBPB1);
